@@ -75,27 +75,27 @@ Key Features:
 - Real-time financial transaction analysis  
 
  Project Documentation:
-[View Project 3](Project3-Banking-Risk-Management.md)
+ Project3-Banking-Risk-Management.md
 
 ---
 
  Architecture & Technical Documentation
 
  Databricks Medallion Architecture  
-[View Documentation](Databricks-Medallion-Architecture.md)
-
+ Databricks-Medallion-Architecture.md
+ 
+ 
  Core PySpark Keywords  
-[View Documentation](pyspark-keywords.md)
+ pyspark-keywords.md
 
 ---
 
  Professional Information
 
  Roles and Responsibilities  
-[View Details](Role%20And%20Responsibilities.md)
-
+Role And Responsibilities.md
  Self Introduction  
-https://github.com/mdeepakgithub/Azure-Data-Engineer-/blob/main/Self-Introduction.md
+ Self-Introduction.md
 
 ---
 
