@@ -47,7 +47,7 @@ Key Features:
 - Power BI analytics dashboards  
 
  Project Documentation:
-[View Project 1](Project1-Cloud-Data-Pipeline.md)
+[View Project 1](https://github.com/mdeepakgithub/Azure-Data-Engineer-/blob/main/project1-cloud-data-pipeline%20Project%20overview.md)
 
 ---
 
@@ -75,27 +75,31 @@ Key Features:
 - Real-time financial transaction analysis  
 
  Project Documentation:
- Project3-Banking-Risk-Management.md
+
 
 ---
 
  Architecture & Technical Documentation
 
+
  Databricks Medallion Architecture  
- Databricks-Medallion-Architecture.md
+
  
  
  Core PySpark Keywords  
- pyspark-keywords.md
+
+
 
 ---
 
  Professional Information
 
  Roles and Responsibilities  
-Role And Responsibilities.md
+
+
+
  Self Introduction  
- Self-Introduction.md
+ 
 
 ---
 
