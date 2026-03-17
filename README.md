@@ -84,7 +84,7 @@ Key Features:
 
 
  Databricks Medallion Architecture  
-  [View Documentation] https://github.com/mdeepakgithub/Azure-Data-Engineer-/blob/main/Databricks-Medallion-Architecture.md
+  [View Documentation] (https://github.com/mdeepakgithub/Azure-Data-Engineer-/blob/main/Databricks-Medallion-Architecture.md)
  
  
  Core PySpark Keywords  
