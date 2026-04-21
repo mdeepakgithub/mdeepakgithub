@@ -2,7 +2,7 @@
 
  About Me
 
-Hi, I'm **Maddala Deepak**, an Azure Data Engineer with **3.4 years of experience** in building scalable data pipelines and analytics platforms on Microsoft Azure.
+Hi, I'm **Maddala Deepak**, an Azure Data Engineer with **3.5+ years of experience** in building scalable data pipelines and analytics platforms on Microsoft Azure.
 
 I specialize in designing **end-to-end data engineering solutions** using Azure services such as Azure Data Factory, Azure Databricks, Azure Synapse Analytics, and ADLS Gen2.
 
